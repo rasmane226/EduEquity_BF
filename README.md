@@ -96,3 +96,25 @@ EduEquity BF ambitionne de transformer les données éducatives en informations 
 ---
 
 Projet d'analyse de données et de visualisation consacré à l'équité éducative au Burkina Faso.
+
+
+
+
+## 🖥️ Aperçu du tableau de bord
+
+### Vue nationale
+![Vue nationale](assets/screenshots/dashboard.png)
+
+### Analyse territoriale
+![Comparaison des régions](assets/screenshots/regional_analysis.png)
+
+### Disparités de genre
+![Évolution des écarts de genre](assets/screenshots/gender_analysis.png)
+
+### Analyse urbain-rural
+![Situation scolaire selon le milieu](assets/screenshots/urban_rural_analysis.png)
+
+### Cartographie des priorités territoriales
+![Carte des priorités territoriales](assets/screenshots/territorial_map.png)
+
+🌐 Explorer l'application : https://eduequity-bf.streamlit.app/

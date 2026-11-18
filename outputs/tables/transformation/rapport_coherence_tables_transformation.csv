@@ -1,0 +1,12 @@
+﻿CONTROLE,RESULTAT,DETAIL
+Clés effectifs / indicateurs régionaux,VALIDE,Effectifs : 260 ; Indicateurs : 260 ; manquantes : 0 ; supplémentaires : 0
+Clés CP1 / indicateurs régionaux,VALIDE,CP1 : 260 ; Indicateurs : 260 ; manquantes : 0 ; supplémentaires : 0
+Clés indicateurs / indices de parité,VALIDE,Indicateurs : 130 ; Indices : 130 ; manquantes : 0 ; supplémentaires : 0
+Clés CEP individuel / CEP final,VALIDE,CEP individuel : 130 ; CEP final : 130 ; manquantes : 0 ; supplémentaires : 0
+Clés écoles individuel / écoles finales,VALIDE,Écoles individuelles : 130 ; Écoles finales : 130 ; manquantes : 0 ; supplémentaires : 0
+Somme des parts public et privé,VALIDE,Les parts public et privé doivent totaliser 100 %
+Calcul des écarts urbain-rural,VALIDE,Vérification de l'écart signé et de l'écart absolu
+Calcul du ratio urbain-rural,VALIDE,Vérification du ratio des effectifs urbains et ruraux
+Calcul des écarts de réussite au CEP,VALIDE,Vérification des écarts entre filles et garçons
+Calcul du total des écoles,VALIDE,Total = établissements publics + établissements privés
+Calcul de l'écart public-privé,VALIDE,Écart = établissements publics - établissements privés

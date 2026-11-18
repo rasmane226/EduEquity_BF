@@ -1,0 +1,11 @@
+﻿FICHIER,STATUT,LIGNES,DOUBLONS_COMPLETS,DOUBLONS_CLES,VALEURS_MANQUANTES,VALEURS_NON_NUMERIQUES,VALEURS_NEGATIVES,CATEGORIES_INVALIDES
+effectifs_primaire_region_sexe.csv,VALIDE,26,0,0,0,0,0,0
+effectifs_primaire_milieu_sexe.csv,VALIDE,6,0,0,0,0,0,0
+tba_primaire_region_sexe.csv,VALIDE,13,0,0,0,0,0,0
+tbs_primaire_region_sexe.csv,VALIDE,13,0,0,0,0,0,0
+tap_primaire_region_sexe.csv,VALIDE,13,0,0,0,0,0,0
+taux_reussite_cep_region_sexe.csv,VALIDE,26,0,0,0,0,0,0
+ips_tba_primaire_region.csv,VALIDE,13,0,0,0,0,0,0
+ips_tbs_primaire_region.csv,VALIDE,13,0,0,0,0,0,0
+ips_tap_primaire_region.csv,VALIDE,13,0,0,0,0,0,0
+ecoles_primaire_region_statut.csv,VALIDE,26,0,0,0,0,0,0

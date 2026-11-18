@@ -1,0 +1,45 @@
+RAPPORT DE SYNTHESE STATISTIQUE
+PROJET EDU EQUITY BF
+=================================================================
+
+1. DESCRIPTION GENERALE
+Nombre de régions analysées : 13
+Indicateurs étudiés : TBA, TBS et TAP.
+Unité d'analyse : 13 moyennes régionales.
+Les moyennes régionales sont calculées sur les observations disponibles et ne constituent pas des moyennes nationales pondérées.
+
+2. STATISTIQUES DESCRIPTIVES
+
+TBA : moyenne = 97.95, médiane = 101.31, minimum = 51.61, maximum = 126.54, écart-type = 22.97, IQR = 23.09, CV = 23.46%.
+
+TBS : moyenne = 84.19, médiane = 84.41, minimum = 32.59, maximum = 111.36, écart-type = 23.82, IQR = 29.08, CV = 28.29%.
+
+TAP : moyenne = 58.38, médiane = 59.45, minimum = 16.83, maximum = 85.16, écart-type = 19.54, IQR = 19.89, CV = 33.46%.
+
+3. ANALYSE DES CORRELATIONS
+
+TBA - TBS : Pearson r = 0.9720, Spearman rho = 0.8956.
+
+TBA - TAP : Pearson r = 0.8937, Spearman rho = 0.8462.
+
+TBS - TAP : Pearson r = 0.9718, Spearman rho = 0.9670.
+Les corrélations indiquent des associations entre les indicateurs, mais ne démontrent aucune relation de causalité.
+
+4. ANALYSE DE LA DISPERSION
+L'indicateur présentant la dispersion relative la plus importante est TAP, avec un CV de 33.46%.
+
+5. VALEURS ATYPIQUES
+SAHEL - TBA : 51.61.
+SAHEL - TAP : 16.83.
+Les valeurs atypiques ne sont pas automatiquement des erreurs. Elles doivent être interprétées dans leur contexte territorial.
+
+6. LIMITES METHODOLOGIQUES
+- L'analyse repose sur seulement 13 observations régionales.
+- Les résultats ne représentent pas les observations individuelles des élèves.
+- Les corrélations ne démontrent pas de causalité.
+- Les moyennes régionales ne sont pas pondérées par les effectifs.
+- Les valeurs atypiques identifiées par la méthode IQR ne constituent pas nécessairement des erreurs.
+
+7. CONCLUSION
+Les analyses montrent une dispersion relative particulièrement importante du TAP entre les régions.
+Les associations positives entre les trois indicateurs et les disparités observées constituent une base descriptive pour approfondir la priorisation territoriale dans EduEquity BF.

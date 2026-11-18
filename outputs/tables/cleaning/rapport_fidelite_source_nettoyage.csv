@@ -1,0 +1,12 @@
+﻿fichier,lignes_reconstruites,lignes_fichier_final,colonnes,statut,ecarts,valeurs_comparees,valeurs_differentes
+effectifs_primaire_region_sexe.csv,26,26,12,FIDÈLE,,312,0
+effectifs_primaire_milieu_sexe.csv,6,6,12,FIDÈLE,,72,0
+tba_primaire_region_sexe.csv,13,13,31,FIDÈLE,,403,0
+tbs_primaire_region_sexe.csv,13,13,31,FIDÈLE,,403,0
+tap_primaire_region_sexe.csv,13,13,31,FIDÈLE,,403,0
+taux_reussite_cep_region_sexe.csv,26,26,12,FIDÈLE,,312,0
+ips_tba_primaire_region.csv,13,13,11,FIDÈLE,,143,0
+ips_tbs_primaire_region.csv,13,13,11,FIDÈLE,,143,0
+ips_tap_primaire_region.csv,13,13,11,FIDÈLE,,143,0
+ecoles_primaire_region_statut.csv,26,26,12,FIDÈLE,,312,0
+nouveaux_inscrits_cp1_region_sexe.csv,260,260,4,FIDÈLE,,1040,0

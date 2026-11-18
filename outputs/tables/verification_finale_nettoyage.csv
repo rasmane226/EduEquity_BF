@@ -1,0 +1,11 @@
+﻿fichier,fichier_present,lignes,regions_distinctes,regions_inconnues,noms_nationaux,categories_total,doublons,dimensions_correctes,validation
+effectifs_primaire_region_sexe.csv,True,26,13,,,,0,True,VALIDÉ
+effectifs_primaire_milieu_sexe.csv,True,6,0,,,,0,True,VALIDÉ
+tba_primaire_region_sexe.csv,True,13,13,,,,0,True,VALIDÉ
+tbs_primaire_region_sexe.csv,True,13,13,,,,0,True,VALIDÉ
+tap_primaire_region_sexe.csv,True,13,13,,,,0,True,VALIDÉ
+taux_reussite_cep_region_sexe.csv,True,26,13,,,,0,True,VALIDÉ
+ips_tba_primaire_region.csv,True,13,13,,,,0,True,VALIDÉ
+ips_tbs_primaire_region.csv,True,13,13,,,,0,True,VALIDÉ
+ips_tap_primaire_region.csv,True,13,13,,,,0,True,VALIDÉ
+ecoles_primaire_region_statut.csv,True,26,13,,,,0,True,VALIDÉ

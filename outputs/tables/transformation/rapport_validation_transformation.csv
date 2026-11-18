@@ -1,0 +1,11 @@
+﻿FICHIER_SOURCE,FICHIER_TRANSFORME,LIGNES_ATTENDUES,LIGNES_OBTENUES,DOUBLONS_SOURCE,DOUBLONS_TRANSFORMES,CLES_MANQUANTES,CLES_SUPPLEMENTAIRES,VALEURS_DIFFERENTES,VALEURS_MANQUANTES,STATUT
+effectifs_primaire_region_sexe.csv,effectifs_primaire_region_sexe_long.csv,260,260,0,0,0,0,0,0,VALIDE
+effectifs_primaire_milieu_sexe.csv,effectifs_primaire_milieu_sexe_long.csv,40,40,0,0,0,0,0,0,VALIDE
+tba_primaire_region_sexe.csv,tba_primaire_region_sexe_long.csv,390,390,0,0,0,0,0,0,VALIDE
+tbs_primaire_region_sexe.csv,tbs_primaire_region_sexe_long.csv,390,390,0,0,0,0,0,0,VALIDE
+tap_primaire_region_sexe.csv,tap_primaire_region_sexe_long.csv,390,390,0,0,0,0,0,0,VALIDE
+taux_reussite_cep_region_sexe.csv,taux_reussite_cep_region_sexe_long.csv,260,260,0,0,0,0,0,0,VALIDE
+ips_tba_primaire_region.csv,ips_tba_primaire_region_long.csv,130,130,0,0,0,0,0,0,VALIDE
+ips_tbs_primaire_region.csv,ips_tbs_primaire_region_long.csv,130,130,0,0,0,0,0,0,VALIDE
+ips_tap_primaire_region.csv,ips_tap_primaire_region_long.csv,130,130,0,0,0,0,0,0,VALIDE
+ecoles_primaire_region_statut.csv,ecoles_primaire_region_statut_long.csv,260,260,0,0,0,0,0,0,VALIDE

@@ -1,0 +1,21 @@
+
+# Environnements Python
+.venv/
+venv/
+env/
+
+# Fichiers Python temporaires
+__pycache__/
+*.py[cod]
+
+# Configuration locale PyCharm
+.idea/
+
+# Secrets et variables d'environnement
+.env
+.streamlit/secrets.toml
+
+# Fichiers temporaires
+*.log
+.DS_Store
+Thumbs.db

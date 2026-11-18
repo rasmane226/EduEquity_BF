@@ -1,0 +1,12 @@
+﻿DATASET,FICHIER_NETTOYE,STATUT_NETTOYE,LIGNES_NETTOYE,COLONNES_NETTOYE,FICHIER_TRANSFORME,STATUT_TRANSFORME,LIGNES_TRANSFORME,COLONNES_TRANSFORME,COMPARAISON
+Effectifs régionaux par sexe,effectifs_primaire_region_sexe.csv,LU,26,12,effectifs_primaire_region_sexe_long.csv,LU,260,4,Fichiers disponibles
+Effectifs urbains et ruraux,effectifs_primaire_milieu_sexe.csv,LU,6,12,effectifs_primaire_milieu_sexe_long.csv,LU,40,4,Fichiers disponibles
+Nouveaux inscrits au CP1,nouveaux_inscrits_cp1_region_sexe.csv,LU,260,4,nouveaux_inscrits_cp1_region_sexe_long.csv,LU,260,4,Fichiers disponibles
+Taux brut d'admission,tba_primaire_region_sexe.csv,LU,13,31,tba_primaire_region_sexe_long.csv,LU,390,4,Fichiers disponibles
+Taux brut de scolarisation,tbs_primaire_region_sexe.csv,LU,13,31,tbs_primaire_region_sexe_long.csv,LU,390,4,Fichiers disponibles
+Taux d'achèvement du primaire,tap_primaire_region_sexe.csv,LU,13,31,tap_primaire_region_sexe_long.csv,LU,390,4,Fichiers disponibles
+Taux de réussite au CEP,taux_reussite_cep_region_sexe.csv,LU,26,12,taux_reussite_cep_region_sexe_long.csv,LU,260,4,Fichiers disponibles
+Indice de parité du TBA,ips_tba_primaire_region.csv,LU,13,11,ips_tba_primaire_region_long.csv,LU,130,3,Fichiers disponibles
+Indice de parité du TBS,ips_tbs_primaire_region.csv,LU,13,11,ips_tbs_primaire_region_long.csv,LU,130,3,Fichiers disponibles
+Indice de parité du TAP,ips_tap_primaire_region.csv,LU,13,11,ips_tap_primaire_region_long.csv,LU,130,3,Fichiers disponibles
+Établissements primaires par statut,ecoles_primaire_region_statut.csv,LU,26,12,ecoles_primaire_region_statut_long.csv,LU,260,4,Fichiers disponibles

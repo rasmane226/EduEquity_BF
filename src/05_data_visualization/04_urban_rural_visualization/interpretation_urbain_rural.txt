@@ -1,0 +1,70 @@
+ANALYSE DES DISPARITES ENTRE MILIEUX URBAIN ET RURAL
+======================================================================
+PARTIE 1 : EVOLUTION DES EFFECTIFS
+
+Sexe : FILLES
+Effectif urbain initial : 393521
+Effectif urbain final : 607556
+Effectif rural initial : 1001722
+Effectif rural final : 1034981
+
+Sexe : GARCONS
+Effectif urbain initial : 389162
+Effectif urbain final : 600299
+Effectif rural initial : 1088644
+Effectif rural final : 1065260
+
+PARTIE 2 : SITUATION SCOLAIRE SELON LE MILIEU
+
+Milieu : Rural
+Scolarisé : 39.6 %
+Déscolarisé : 14.1 %
+Jamais fréquenté : 46.2 %
+
+Milieu : Urbain
+Scolarisé : 67.1 %
+Déscolarisé : 18.1 %
+Jamais fréquenté : 14.9 %
+
+PARTIE 3 : ECARTS FILLES-GARCONS
+
+Milieu : Rural | Statut : Déscolarisé | Ecart filles-garçons : +0.0 points
+
+Milieu : Rural | Statut : Jamais fréquenté | Ecart filles-garçons : +0.0 points
+
+Milieu : Rural | Statut : Scolarisé | Ecart filles-garçons : +0.0 points
+
+Milieu : Urbain | Statut : Déscolarisé | Ecart filles-garçons : -0.1 points
+
+Milieu : Urbain | Statut : Jamais fréquenté | Ecart filles-garçons : +3.5 points
+
+Milieu : Urbain | Statut : Scolarisé | Ecart filles-garçons : -3.5 points
+
+PARTIE 4 : DIFFERENCES URBAIN-RURAL
+
+Déscolarisé : +4.0 points (urbain - rural)
+
+Jamais fréquenté : -31.3 points (urbain - rural)
+
+Scolarisé : +27.5 points (urbain - rural)
+
+NOTE METHODOLOGIQUE
+Les effectifs urbains et ruraux sont des nombres d'élèves, et non des taux d'accès ou de scolarisation.
+Les données INSD de situation scolaire selon le milieu concernent les enfants de 6 à 16 ans.
+Les écarts filles-garçons sont exprimés en points de pourcentage. Leur interprétation dépend du statut scolaire considéré.
+
+
+
+### Analyse des disparités scolaires selon le milieu de résidence et le sexe
+
+L'analyse des données relatives aux milieux urbain et rural met en évidence des différences importantes dans la répartition des effectifs scolaires et dans la situation de fréquentation scolaire des enfants au Burkina Faso.
+
+L'évolution des effectifs scolaires entre 2015-2016 et 2024-2025 montre que les effectifs ruraux demeurent supérieurs aux effectifs urbains, aussi bien chez les filles que chez les garçons. Toutefois, les effectifs urbains présentent une progression régulière sur la période, tandis que les effectifs ruraux connaissent des fluctuations plus importantes, notamment une diminution marquée en 2022-2023, suivie d'une reprise partielle. Ces observations concernent des nombres d'élèves et ne permettent pas, en l'absence de dénominateurs démographiques correspondants, de comparer directement les taux d'accès à l'école entre les deux milieux.
+
+Les données du RGPH 2019 de l'INSD relatives aux enfants de 6 à 16 ans révèlent des différences importantes selon le milieu de résidence. La proportion d'enfants scolarisés atteint 67,1 % en milieu urbain, contre 39,6 % en milieu rural, soit un écart de 27,5 points de pourcentage. À l'inverse, la proportion d'enfants n'ayant jamais fréquenté l'école est nettement plus élevée en milieu rural (46,2 %) qu'en milieu urbain (14,9 %). Concernant la déscolarisation, la proportion observée est de 18,1 % en milieu urbain et de 14,1 % en milieu rural.
+
+L'analyse des écarts entre filles et garçons selon le milieu révèle également des différences selon le statut scolaire. En milieu urbain, la proportion de filles scolarisées est inférieure de 3,5 points à celle des garçons. La proportion de filles n'ayant jamais fréquenté l'école est, quant à elle, supérieure de 3,5 points. L'écart concernant la déscolarisation est faible (-0,1 point en faveur des filles). En milieu rural, les écarts calculés sont nuls pour les trois statuts scolaires dans les données disponibles. Cette dernière observation doit toutefois être interprétée avec prudence et vérifiée à partir des tableaux originaux de l'INSD.
+
+Dans l'ensemble, les résultats mettent en évidence des disparités importantes entre les milieux urbain et rural, particulièrement concernant la scolarisation et la non-fréquentation scolaire. Ils soulignent également l'intérêt d'une analyse croisée du sexe et du milieu de résidence pour mieux caractériser les inégalités éducatives.
+
+Ces résultats sont descriptifs et ne permettent pas, à eux seuls, d'identifier les causes des différences observées. Par ailleurs, les effectifs DGESS et les proportions INSD proviennent de sources et de périodes différentes et doivent être interprétés séparément.

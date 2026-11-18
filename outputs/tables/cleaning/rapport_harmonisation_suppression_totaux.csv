@@ -1,0 +1,11 @@
+﻿fichier,lignes_initiales,lignes_finales,lignes_supprimees,regions_distinctes,fichier_genere
+effectifs_primaire_region_sexe.csv,42,26,16,13,effectifs_primaire_region_sexe.csv
+effectifs_primaire_milieu_sexe.csv,9,6,3,Non applicable,effectifs_primaire_milieu_sexe.csv
+tba_primaire_region_sexe.csv,14,13,1,13,tba_primaire_region_sexe.csv
+tbs_primaire_region_sexe.csv,14,13,1,13,tbs_primaire_region_sexe.csv
+tap_primaire_region_sexe.csv,14,13,1,13,tap_primaire_region_sexe.csv
+taux_reussite_cep_region_sexe.csv,42,26,16,13,taux_reussite_cep_region_sexe.csv
+ips_tba_primaire_region.csv,14,13,1,13,ips_tba_primaire_region.csv
+ips_tbs_primaire_region.csv,14,13,1,13,ips_tbs_primaire_region.csv
+ips_tap_primaire_region.csv,14,13,1,13,ips_tap_primaire_region.csv
+ecoles_primaire_region_statut.csv,42,26,16,13,ecoles_primaire_region_statut.csv

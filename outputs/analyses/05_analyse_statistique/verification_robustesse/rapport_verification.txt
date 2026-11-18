@@ -1,0 +1,25 @@
+VERIFICATION DE ROBUSTESSE STATISTIQUE
+PROJET EDU EQUITY BF
+============================================================
+
+Nombre de regions : 13
+Nombre d'indicateurs : 3
+
+Classement strictement identique : False
+Kendall W verifie : 0.93529
+Statistique Friedman : 26.00000
+P-value Friedman : 2.2603294e-06
+
+CORRELATIONS APRES CORRECTION DE HOLM
+PEARSON - TBA vs TBS : coefficient = 0.97201, p brute = 2.8967162e-08, p Holm = 8.6901485e-08, Significatif
+PEARSON - TBA vs TAP : coefficient = 0.89367, p brute = 3.8357755e-05, p Holm = 3.8357755e-05, Significatif
+PEARSON - TBS vs TAP : coefficient = 0.97183, p brute = 3.0004032e-08, p Holm = 8.6901485e-08, Significatif
+SPEARMAN - TBA vs TBS : coefficient = 0.89560, p brute = 3.480973e-05, p Holm = 6.961946e-05, Significatif
+SPEARMAN - TBA vs TAP : coefficient = 0.84615, p brute = 0.00026601206, p Holm = 0.00026601206, Significatif
+SPEARMAN - TBS vs TAP : coefficient = 0.96703, p brute = 7.0641139e-08, p Holm = 2.1192342e-07, Significatif
+
+Les corrections de Holm sont appliquees separement aux familles Pearson et Spearman.
+
+Cette verification confirme la concordance des rangs et examine la robustesse des correlations.
+
+Elle ne demontre pas de causalite et ne constitue pas un test de differences entre les regions.

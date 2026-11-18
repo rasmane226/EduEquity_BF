@@ -1,0 +1,17 @@
+﻿CATEGORIE,FICHIER,NOMBRE_LIGNES,NOMBRE_COLONNES,COLONNES_CLES_PRESENTES,CLES_MANQUANTES,DOUBLONS,VALEURS_MANQUANTES,VALEURS_INFINIES,REGIONS,ANNEES,COMBINAISONS_MANQUANTES,COMBINAISONS_SUPPLEMENTAIRES,STATUT,DETAIL
+INDIVIDUEL,Effectifs régionaux par sexe,260,4,True,0,0,0,0,13.0,10,0,0,VALIDE,Tous les contrôles sont conformes
+INDIVIDUEL,Nouveaux inscrits au CP1,260,4,True,0,0,0,0,13.0,10,0,0,VALIDE,Tous les contrôles sont conformes
+INDIVIDUEL,Effectifs urbains et ruraux,40,4,True,0,0,0,0,,10,0,0,VALIDE,Tous les contrôles sont conformes
+INDIVIDUEL,TBA,390,4,True,0,0,0,0,13.0,10,0,0,VALIDE,Tous les contrôles sont conformes
+INDIVIDUEL,TBS,390,4,True,0,0,0,0,13.0,10,0,0,VALIDE,Tous les contrôles sont conformes
+INDIVIDUEL,TAP,390,4,True,0,0,0,0,13.0,10,0,0,VALIDE,Tous les contrôles sont conformes
+INDIVIDUEL,Résultats CEP,260,4,True,0,0,0,0,13.0,10,0,0,VALIDE,Tous les contrôles sont conformes
+INDIVIDUEL,IPS TBA,130,3,True,0,0,0,0,13.0,10,0,0,VALIDE,Tous les contrôles sont conformes
+INDIVIDUEL,IPS TBS,130,3,True,0,0,0,0,13.0,10,0,0,VALIDE,Tous les contrôles sont conformes
+INDIVIDUEL,IPS TAP,130,3,True,0,0,0,0,13.0,10,0,0,VALIDE,Tous les contrôles sont conformes
+INDIVIDUEL,Écoles par statut,260,4,True,0,0,0,0,13.0,10,0,0,VALIDE,Tous les contrôles sont conformes
+ANALYTIQUE,Indicateurs régionaux par sexe,260,8,True,0,0,0,0,13.0,10,0,0,VALIDE,Tous les contrôles sont conformes
+ANALYTIQUE,Indices de parité régionaux,130,5,True,0,0,0,0,13.0,10,0,0,VALIDE,Tous les contrôles sont conformes
+ANALYTIQUE,Comparaison urbain-rural,20,7,True,0,0,0,0,,10,0,0,VALIDE,Tous les contrôles sont conformes
+ANALYTIQUE,Résultats CEP régionaux,130,6,True,0,0,0,0,13.0,10,0,0,VALIDE,Tous les contrôles sont conformes
+ANALYTIQUE,Répartition régionale des écoles,130,8,True,0,0,0,0,13.0,10,0,0,VALIDE,Tous les contrôles sont conformes

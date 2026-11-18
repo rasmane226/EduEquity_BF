@@ -1,0 +1,12 @@
+﻿FICHIER_SOURCE,LIGNES_SOURCE,LIGNES_TRANSFORMEES,VALEURS_MANQUANTES,DOUBLONS_CLES,VALEURS_NEGATIVES,VALEURS_INFINIES,STATUT,FICHIER_SORTIE
+effectifs_primaire_region_sexe.csv,26,260,0,0,0,0,VALIDE,C:\Users\admin\PycharmProjects\EduEquity_BF\data\04_transformed_data\individual\effectifs_primaire_region_sexe_long.csv
+effectifs_primaire_milieu_sexe.csv,4,40,0,0,0,0,VALIDE,C:\Users\admin\PycharmProjects\EduEquity_BF\data\04_transformed_data\individual\effectifs_primaire_milieu_sexe_long.csv
+tba_primaire_region_sexe.csv,13,390,0,0,0,0,VALIDE,C:\Users\admin\PycharmProjects\EduEquity_BF\data\04_transformed_data\individual\tba_primaire_region_sexe_long.csv
+tbs_primaire_region_sexe.csv,13,390,0,0,0,0,VALIDE,C:\Users\admin\PycharmProjects\EduEquity_BF\data\04_transformed_data\individual\tbs_primaire_region_sexe_long.csv
+tap_primaire_region_sexe.csv,13,390,0,0,0,0,VALIDE,C:\Users\admin\PycharmProjects\EduEquity_BF\data\04_transformed_data\individual\tap_primaire_region_sexe_long.csv
+taux_reussite_cep_region_sexe.csv,26,260,0,0,0,0,VALIDE,C:\Users\admin\PycharmProjects\EduEquity_BF\data\04_transformed_data\individual\taux_reussite_cep_region_sexe_long.csv
+ips_tba_primaire_region.csv,13,130,0,0,0,0,VALIDE,C:\Users\admin\PycharmProjects\EduEquity_BF\data\04_transformed_data\individual\ips_tba_primaire_region_long.csv
+ips_tbs_primaire_region.csv,13,130,0,0,0,0,VALIDE,C:\Users\admin\PycharmProjects\EduEquity_BF\data\04_transformed_data\individual\ips_tbs_primaire_region_long.csv
+ips_tap_primaire_region.csv,13,130,0,0,0,0,VALIDE,C:\Users\admin\PycharmProjects\EduEquity_BF\data\04_transformed_data\individual\ips_tap_primaire_region_long.csv
+ecoles_primaire_region_statut.csv,26,260,0,0,0,0,VALIDE,C:\Users\admin\PycharmProjects\EduEquity_BF\data\04_transformed_data\individual\ecoles_primaire_region_statut_long.csv
+nouveaux_inscrits_cp1_region_sexe.csv,260,260,0,0,0,0,VALIDE,C:\Users\admin\PycharmProjects\EduEquity_BF\data\04_transformed_data\individual\nouveaux_inscrits_cp1_region_sexe_long.csv

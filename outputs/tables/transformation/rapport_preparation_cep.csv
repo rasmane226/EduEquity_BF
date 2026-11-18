@@ -1,0 +1,20 @@
+﻿CONTROLE,RESULTAT
+Lignes source,260
+Régions détectées,13
+Années détectées,10
+Catégories de sexe,2
+Doublons source,0
+Valeurs manquantes source,0
+Valeurs infinies source,0
+Combinaisons manquantes,0
+Combinaisons supplémentaires,0
+Lignes de la table finale,130
+Doublons table finale,0
+Valeurs manquantes table finale,0
+Valeurs infinies table finale,0
+Taux minimum,32.49175480495849
+Taux maximum,93.18135969336292
+Echelle comprise entre 0 et 100,True
+Cohérence des écarts,True
+Cohérence des écarts absolus,True
+STATUT GLOBAL,VALIDE

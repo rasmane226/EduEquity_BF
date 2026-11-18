@@ -1,0 +1,11 @@
+﻿FICHIER,EXISTENCE,DIMENSIONS,VALEURS_MANQUANTES,DOUBLONS
+effectifs_primaire_region_sexe.csv,OUI,CONFORMES,0,0
+effectifs_primaire_milieu_sexe.csv,OUI,CONFORMES,0,0
+tba_primaire_region_sexe.csv,OUI,CONFORMES,0,0
+tbs_primaire_region_sexe.csv,OUI,CONFORMES,0,0
+tap_primaire_region_sexe.csv,OUI,CONFORMES,0,0
+taux_reussite_cep_region_sexe.csv,OUI,CONFORMES,0,0
+ips_tba_primaire_region.csv,OUI,CONFORMES,0,0
+ips_tbs_primaire_region.csv,OUI,CONFORMES,0,0
+ips_tap_primaire_region.csv,OUI,CONFORMES,0,0
+ecoles_primaire_region_statut.csv,OUI,CONFORMES,0,0

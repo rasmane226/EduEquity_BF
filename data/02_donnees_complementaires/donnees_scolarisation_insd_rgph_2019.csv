@@ -1,0 +1,61 @@
+﻿TABLE_SOURCE,REGION,GROUPE_AGE,MILIEU_RESIDENCE,SEXE,STATUT_SCOLAIRE,PROPORTION_PCT,EFFECTIF_REFERENCE
+Tableau 37,Burkina Faso,6-16 ans,Urbain,Masculin,Jamais fréquenté,13.0,579313.0
+Tableau 37,Burkina Faso,6-16 ans,Urbain,Masculin,Déscolarisé,18.1,579313.0
+Tableau 37,Burkina Faso,6-16 ans,Urbain,Masculin,Scolarisé,68.9,579313.0
+Tableau 37,Burkina Faso,6-16 ans,Urbain,Féminin,Jamais fréquenté,16.5,658686.0
+Tableau 37,Burkina Faso,6-16 ans,Urbain,Féminin,Déscolarisé,18.0,658686.0
+Tableau 37,Burkina Faso,6-16 ans,Urbain,Féminin,Scolarisé,65.4,658686.0
+Tableau 37,Burkina Faso,6-16 ans,Urbain,Ensemble,Jamais fréquenté,14.9,1237999.0
+Tableau 37,Burkina Faso,6-16 ans,Urbain,Ensemble,Déscolarisé,18.1,1237999.0
+Tableau 37,Burkina Faso,6-16 ans,Urbain,Ensemble,Scolarisé,67.1,1237999.0
+Tableau 37,Burkina Faso,6-16 ans,Rural,Masculin,Jamais fréquenté,46.0,2153639.0
+Tableau 37,Burkina Faso,6-16 ans,Rural,Masculin,Déscolarisé,14.8,2153639.0
+Tableau 37,Burkina Faso,6-16 ans,Rural,Masculin,Scolarisé,39.2,2153639.0
+Tableau 37,Burkina Faso,6-16 ans,Rural,Féminin,Jamais fréquenté,46.0,2056854.0
+Tableau 37,Burkina Faso,6-16 ans,Rural,Féminin,Déscolarisé,14.8,2056854.0
+Tableau 37,Burkina Faso,6-16 ans,Rural,Féminin,Scolarisé,39.2,2056854.0
+Tableau 37,Burkina Faso,6-16 ans,Rural,Ensemble,Jamais fréquenté,46.2,4210493.0
+Tableau 37,Burkina Faso,6-16 ans,Rural,Ensemble,Déscolarisé,14.1,4210493.0
+Tableau 37,Burkina Faso,6-16 ans,Rural,Ensemble,Scolarisé,39.6,4210493.0
+Tableau 38,Boucle du Mouhoun,6-11 ans,,Ensemble,Jamais fréquenté,47.5,
+Tableau 38,Boucle du Mouhoun,6-11 ans,,Ensemble,Déscolarisé,11.7,
+Tableau 38,Boucle du Mouhoun,6-11 ans,,Ensemble,Scolarisé,40.8,
+Tableau 38,Cascades,6-11 ans,,Ensemble,Jamais fréquenté,48.5,
+Tableau 38,Cascades,6-11 ans,,Ensemble,Déscolarisé,9.0,
+Tableau 38,Cascades,6-11 ans,,Ensemble,Scolarisé,42.5,
+Tableau 38,Centre,6-11 ans,,Ensemble,Jamais fréquenté,9.8,
+Tableau 38,Centre,6-11 ans,,Ensemble,Déscolarisé,16.5,
+Tableau 38,Centre,6-11 ans,,Ensemble,Scolarisé,73.7,
+Tableau 38,Centre-Est,6-11 ans,,Ensemble,Jamais fréquenté,43.3,
+Tableau 38,Centre-Est,6-11 ans,,Ensemble,Déscolarisé,13.1,
+Tableau 38,Centre-Est,6-11 ans,,Ensemble,Scolarisé,43.6,
+Tableau 38,Centre-Nord,6-11 ans,,Ensemble,Jamais fréquenté,54.3,
+Tableau 38,Centre-Nord,6-11 ans,,Ensemble,Déscolarisé,12.7,
+Tableau 38,Centre-Nord,6-11 ans,,Ensemble,Scolarisé,33.1,
+Tableau 38,Centre-Ouest,6-11 ans,,Ensemble,Jamais fréquenté,34.8,
+Tableau 38,Centre-Ouest,6-11 ans,,Ensemble,Déscolarisé,11.8,
+Tableau 38,Centre-Ouest,6-11 ans,,Ensemble,Scolarisé,53.4,
+Tableau 38,Centre-Sud,6-11 ans,,Ensemble,Jamais fréquenté,28.9,
+Tableau 38,Centre-Sud,6-11 ans,,Ensemble,Déscolarisé,12.5,
+Tableau 38,Centre-Sud,6-11 ans,,Ensemble,Scolarisé,58.6,
+Tableau 38,Est,6-11 ans,,Ensemble,Jamais fréquenté,66.2,
+Tableau 38,Est,6-11 ans,,Ensemble,Déscolarisé,9.1,
+Tableau 38,Est,6-11 ans,,Ensemble,Scolarisé,24.7,
+Tableau 38,Hauts-Bassins,6-11 ans,,Ensemble,Jamais fréquenté,34.4,
+Tableau 38,Hauts-Bassins,6-11 ans,,Ensemble,Déscolarisé,12.0,
+Tableau 38,Hauts-Bassins,6-11 ans,,Ensemble,Scolarisé,53.7,
+Tableau 38,Nord,6-11 ans,,Ensemble,Jamais fréquenté,39.9,
+Tableau 38,Nord,6-11 ans,,Ensemble,Déscolarisé,15.4,
+Tableau 38,Nord,6-11 ans,,Ensemble,Scolarisé,44.7,
+Tableau 38,Plateau Central,6-11 ans,,Ensemble,Jamais fréquenté,35.6,
+Tableau 38,Plateau Central,6-11 ans,,Ensemble,Déscolarisé,12.1,
+Tableau 38,Plateau Central,6-11 ans,,Ensemble,Scolarisé,52.3,
+Tableau 38,Sahel,6-11 ans,,Ensemble,Jamais fréquenté,79.2,
+Tableau 38,Sahel,6-11 ans,,Ensemble,Déscolarisé,10.1,
+Tableau 38,Sahel,6-11 ans,,Ensemble,Scolarisé,10.7,
+Tableau 38,Sud-Ouest,6-11 ans,,Ensemble,Jamais fréquenté,48.7,
+Tableau 38,Sud-Ouest,6-11 ans,,Ensemble,Déscolarisé,8.3,
+Tableau 38,Sud-Ouest,6-11 ans,,Ensemble,Scolarisé,43.1,
+Tableau 38,Burkina Faso,6-11 ans,,Ensemble,Jamais fréquenté,42.0,
+Tableau 38,Burkina Faso,6-11 ans,,Ensemble,Déscolarisé,12.3,
+Tableau 38,Burkina Faso,6-11 ans,,Ensemble,Scolarisé,45.7,

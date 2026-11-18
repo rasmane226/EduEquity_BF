@@ -1,0 +1,24 @@
+﻿CONTROLE,RESULTAT
+Lignes source,260
+Régions détectées,13
+Années scolaires détectées,10
+Statuts détectés,2
+Doublons source,0
+Valeurs manquantes source,0
+Valeurs infinies source,0
+Valeurs négatives source,0
+Effectifs entiers source,True
+Combinaisons attendues,260
+Combinaisons observées,260
+Combinaisons manquantes,0
+Combinaisons supplémentaires,0
+Lignes finales,130
+Doublons finaux,0
+Valeurs manquantes finales,0
+Valeurs infinies finales,0
+Valeurs négatives finales,0
+Parts totalisant 100 %,True
+Effectifs entiers finaux,True
+Cohérence du nombre total,True
+Cohérence de l'écart public-privé,True
+STATUT GLOBAL,VALIDE

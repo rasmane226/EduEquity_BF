@@ -1,0 +1,14 @@
+﻿REGION,TBA_DGESS,TBS_DGESS,TAP_DGESS,SCOLARISE_INSD_PCT,DESCOLARISE_INSD_PCT,JAMAIS_FREQUENTE_INSD_PCT,RANG_DGESS_TAP,RANG_INSD_SCOLARISATION,RANG_INSD_JAMAIS_FREQUENTE,SIGNAL_DGESS_TAP,SIGNAL_INSD_SCOLARISATION,CONVERGENCE_SIGNAUX,NIVEAU_VIGILANCE,PISTES_INTERVENTION
+BOUCLE DU MOUHOUN,84.0699490692326,72.91911252686529,50.883624915003224,40.8,11.7,47.5,4,4,6,False,False,False,ATTENTION RENFORCEE,Etudier les obstacles a la premiere scolarisation ; Analyser les obstacles a l'achevement du primaire
+CASCADES,93.75718202775245,82.04300567267089,56.95592536589311,42.5,9.0,48.5,6,5,5,False,False,False,SURVEILLANCE,Etudier les obstacles a la premiere scolarisation
+CENTRE,121.45201611531726,111.35632633484394,85.1569031762298,73.7,16.5,9.8,13,13,13,False,False,False,SURVEILLANCE,Examiner les facteurs associes a la descolarisation
+CENTRE-EST,98.86987966620218,84.41169411160199,59.45481240855778,43.6,13.1,43.3,7,7,7,False,False,False,SURVEILLANCE,Etudier les obstacles a la premiere scolarisation ; Examiner les facteurs associes a la descolarisation
+CENTRE-NORD,89.09436157065294,71.00651886422764,43.35549098091475,33.1,12.7,54.3,3,3,3,True,True,True,VIGILANCE ELEVEE,Etudier les obstacles a la premiere scolarisation ; Examiner les facteurs associes a la descolarisation ; Analyser les obstacles a l'achevement du primaire
+CENTRE-OUEST,112.09609818075876,104.65413106984163,79.00875323552039,53.4,11.8,34.8,12,10,10,False,False,False,SURVEILLANCE,Maintenir le suivi des indicateurs scolaires
+CENTRE-SUD,105.50176465130437,101.99666562808959,77.86543395726207,58.6,12.5,28.9,11,12,12,False,False,False,SURVEILLANCE,Examiner les facteurs associes a la descolarisation
+EST,57.797946156060924,46.13682431028194,31.394837014705878,24.7,9.1,66.2,2,2,2,True,True,True,VIGILANCE ELEVEE,Etudier les obstacles a la premiere scolarisation ; Analyser les obstacles a l'achevement du primaire
+HAUTS-BASSINS,112.18197241328713,99.79699265106554,70.77858914956441,53.7,12.0,34.4,10,11,11,False,False,False,SURVEILLANCE,Examiner les facteurs associes a la descolarisation
+NORD,126.53893012946594,101.61352511647185,60.56381742274531,44.7,15.4,39.9,8,8,8,False,False,False,SURVEILLANCE,Examiner les facteurs associes a la descolarisation
+PLATEAU CENTRAL,119.03000893322181,103.36610883056963,70.76037403408358,52.3,12.1,35.6,9,9,9,False,False,False,SURVEILLANCE,Examiner les facteurs associes a la descolarisation
+SAHEL,51.60988453876041,32.59097579738466,16.829120659352633,10.7,10.1,79.2,1,1,1,True,True,True,VIGILANCE ELEVEE,Etudier les obstacles a la premiere scolarisation ; Analyser les obstacles a l'achevement du primaire
+SUD-OUEST,101.3120302350477,82.54216451753659,55.99140515616009,43.1,8.3,48.7,5,6,4,False,False,False,SURVEILLANCE,Etudier les obstacles a la premiere scolarisation ; Analyser les obstacles a l'achevement du primaire

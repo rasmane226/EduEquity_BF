@@ -1,0 +1,83 @@
+ANALYSE DES DISPARITES REGIONALES
+======================================================================
+Les valeurs présentées sont des moyennes descriptives régionales.
+Elles ne constituent pas des moyennes nationales pondérées.
+
+----------------------------------------------------------------------
+INDICATEUR : TBA
+Valeur la plus faible : SAHEL (51.61 %)
+Valeur la plus élevée : NORD (126.54 %)
+Amplitude régionale : 74.93 points
+
+----------------------------------------------------------------------
+INDICATEUR : TBS
+Valeur la plus faible : SAHEL (32.59 %)
+Valeur la plus élevée : CENTRE (111.36 %)
+Amplitude régionale : 78.77 points
+
+----------------------------------------------------------------------
+INDICATEUR : TAP
+Valeur la plus faible : SAHEL (16.83 %)
+Valeur la plus élevée : CENTRE (85.16 %)
+Amplitude régionale : 68.33 points
+
+----------------------------------------------------------------------
+VARIATIONS ENTRE LES DEUX ANNEES EXTREMES
+
+Indicateur : TBA
+Progressions : 10 régions
+Reculs : 3 régions
+Stabilités : 0 régions
+Variation positive la plus élevée : NORD (+19.99 points)
+Variation la plus négative : SAHEL (-35.94 points)
+
+Indicateur : TBS
+Progressions : 5 régions
+Reculs : 8 régions
+Stabilités : 0 régions
+Variation positive la plus élevée : CENTRE (+10.77 points)
+Variation la plus négative : EST (-27.82 points)
+
+Indicateur : TAP
+Progressions : 6 régions
+Reculs : 7 régions
+Stabilités : 0 régions
+Variation positive la plus élevée : CENTRE (+12.21 points)
+Variation la plus négative : EST (-23.72 points)
+
+
+
+# Analyse des disparités régionales des indicateurs de l'enseignement primaire au Burkina Faso
+
+L'analyse régionale des indicateurs scolaires TBA, TBS et TAP met en évidence une importante hétérogénéité territoriale dans l'enseignement primaire au Burkina Faso. Les résultats obtenus à partir des moyennes descriptives régionales sur la période 2015-2016 à 2024-2025 révèlent des différences significatives dans les niveaux d'admission, de scolarisation et d'achèvement entre les 13 régions étudiées.
+
+Les résultats montrent que les régions du Sahel et de l'Est présentent les niveaux moyens les plus faibles pour les trois indicateurs. Le Sahel enregistre un TBA moyen de 51,6 %, un TBS de 32,6 % et un TAP de 16,8 %. L'Est présente également des valeurs faibles, respectivement de 57,8 %, 46,1 % et 31,4 %. Ces résultats identifient ces deux régions comme des territoires particulièrement préoccupants au regard des indicateurs étudiés.
+
+À l'inverse, les régions présentent des profils différenciés selon l'indicateur considéré. Le Nord affiche le TBA moyen le plus élevé (126,5 %), tandis que le Centre présente les valeurs moyennes les plus élevées pour le TBS (111,4 %) et le TAP (85,2 %). Cette situation montre que les performances régionales ne sont pas identiques selon les différentes dimensions du parcours scolaire.
+
+L'analyse des évolutions entre 2015-2016 et 2024-2025 révèle également des trajectoires territoriales contrastées. Le Nord enregistre la plus forte progression du TBA (+20,0 points), alors que le Sahel connaît la diminution la plus importante (-35,9 points). Concernant le TBS, le Centre présente la progression la plus élevée (+10,8 points), tandis que l'Est enregistre le recul le plus important (-27,8 points). Pour le TAP, le Centre affiche une progression de +12,2 points, contrairement à l'Est qui présente une diminution de -23,7 points.
+
+Ces résultats mettent en évidence la nécessité de différencier les interventions éducatives selon les caractéristiques territoriales. Les régions du Sahel et de l'Est méritent une attention particulière en raison de leurs faibles niveaux moyens et de certaines évolutions défavorables. Les autres régions nécessitent également un suivi adapté à leurs profils respectifs.
+
+Dans l'ensemble, l'analyse confirme que les disparités éducatives au Burkina Faso présentent une forte dimension territoriale. Elle souligne l'importance de politiques éducatives fondées sur des diagnostics régionaux différenciés, prenant en compte simultanément l'admission, la scolarisation et l'achèvement du primaire.
+
+Ces résultats doivent être interprétés comme des constats descriptifs fondés sur des moyennes régionales non pondérées. Ils ne permettent pas, à eux seuls, d'établir les causes des disparités observées.
+
+
+
+
+### Analyse temporelle des indicateurs scolaires selon les régions (2015-2016 à 2024-2025)
+
+L'analyse des heatmaps temporelles du taux brut d'admission (TBA), du taux brut de scolarisation (TBS) et du taux d'achèvement du primaire (TAP) met en évidence des trajectoires régionales différenciées au cours de la période 2015-2016 à 2024-2025.
+
+Concernant le TBA, les régions du Nord, du Centre et du Plateau Central présentent globalement des niveaux élevés sur la période étudiée. À l'inverse, le Sahel et l'Est enregistrent des valeurs nettement plus faibles. Le Nord atteint notamment 142,2 % en 2023-2024. Ces résultats révèlent une forte hétérogénéité territoriale de l'indicateur d'admission.
+
+L'évolution du TBS présente également des différences importantes entre les régions. Le Centre affiche les niveaux les plus élevés au cours de la période, atteignant 119,4 % en 2023-2024, tandis que le Sahel et l'Est présentent des valeurs particulièrement faibles. Plusieurs régions connaissent par ailleurs une diminution notable en 2022-2023, suivie d'une reprise partielle au cours des années suivantes.
+
+Pour le TAP, les écarts territoriaux sont également marqués. Le Centre enregistre les niveaux les plus élevés, avec un maximum de 95,9 % en 2023-2024. En revanche, le Sahel et l'Est présentent des niveaux d'achèvement particulièrement faibles. Entre 2015-2016 et 2024-2025, le TAP passe de 40,2 % à 16,5 % dans l'Est et de 24,5 % à 11,1 % au Sahel.
+
+Dans l'ensemble, les trois indicateurs révèlent des disparités territoriales persistantes et des trajectoires temporelles qui ne sont pas uniformes. Les régions du Sahel et de l'Est se distinguent par des niveaux particulièrement faibles, tandis que plusieurs régions du Centre et de l'Ouest présentent des valeurs plus élevées pour certaines dimensions du parcours scolaire.
+
+Ces observations soulignent l'intérêt d'une analyse simultanée des dimensions d'admission, de scolarisation et d'achèvement afin de mieux caractériser les disparités régionales de l'enseignement primaire au Burkina Faso.
+
+Les résultats restent descriptifs : ils permettent d'identifier les évolutions et les différences observées, mais ne permettent pas d'établir les facteurs responsables de ces changements.

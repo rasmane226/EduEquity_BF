@@ -1,0 +1,7 @@
+﻿MILIEU_RESIDENCE,STATUT_SCOLAIRE,Féminin,Masculin,ECART_FEMININ_MOINS_MASCULIN,INTERPRETATION
+Rural,Déscolarisé,14.8,14.8,0.0,Égalité observée
+Rural,Jamais fréquenté,46.0,46.0,0.0,Égalité observée
+Rural,Scolarisé,39.2,39.2,0.0,Égalité observée
+Urbain,Déscolarisé,18.0,18.1,-0.1,Désavantage des filles
+Urbain,Jamais fréquenté,16.5,13.0,3.5,Avantage des filles
+Urbain,Scolarisé,65.4,68.9,-3.5,Désavantage des filles

@@ -1,0 +1,12 @@
+﻿FICHIER,EXISTENCE,LIGNES,COLONNES,VALEURS_MANQUANTES,DOUBLONS,STATUT
+effectifs_primaire_region_sexe.csv,OUI,26,12,0,0,VALIDE
+effectifs_primaire_milieu_sexe.csv,OUI,6,12,0,0,VALIDE
+tba_primaire_region_sexe.csv,OUI,13,31,0,0,VALIDE
+tbs_primaire_region_sexe.csv,OUI,13,31,0,0,VALIDE
+tap_primaire_region_sexe.csv,OUI,13,31,0,0,VALIDE
+taux_reussite_cep_region_sexe.csv,OUI,26,12,0,0,VALIDE
+ips_tba_primaire_region.csv,OUI,13,11,0,0,VALIDE
+ips_tbs_primaire_region.csv,OUI,13,11,0,0,VALIDE
+ips_tap_primaire_region.csv,OUI,13,11,0,0,VALIDE
+ecoles_primaire_region_statut.csv,OUI,26,12,0,0,VALIDE
+nouveaux_inscrits_cp1_region_sexe.csv,OUI,260,4,0,0,VALIDE

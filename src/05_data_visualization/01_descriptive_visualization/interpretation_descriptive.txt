@@ -1,0 +1,62 @@
+INTERPRETATION DES EVOLUTIONS DES INDICATEURS
+============================================================
+Source : DGESS, données scolaires 2015-2016 à 2024-2025
+Les résultats sont des moyennes descriptives régionales.
+
+------------------------------------------------------------
+INDICATEUR : TBA
+
+Filles :
+Valeur initiale (2015-2016) : 97.16%
+Valeur finale (2024-2025) : 99.50%
+Variation : +2.34 points.
+Une augmentation est observée.
+
+Garçons :
+Valeur initiale (2015-2016) : 101.84%
+Valeur finale (2024-2025) : 104.98%
+Variation : +3.14 points.
+Une augmentation est observée.
+
+------------------------------------------------------------
+INDICATEUR : TBS
+
+Filles :
+Valeur initiale (2015-2016) : 85.78%
+Valeur finale (2024-2025) : 78.19%
+Variation : -7.58 points.
+Une diminution est observée.
+
+Garçons :
+Valeur initiale (2015-2016) : 85.62%
+Valeur finale (2024-2025) : 79.29%
+Variation : -6.33 points.
+Une diminution est observée.
+
+------------------------------------------------------------
+INDICATEUR : TAP
+
+Filles :
+Valeur initiale (2015-2016) : 60.58%
+Valeur finale (2024-2025) : 54.70%
+Variation : -5.89 points.
+Une diminution est observée.
+
+Garçons :
+Valeur initiale (2015-2016) : 55.16%
+Valeur finale (2024-2025) : 47.68%
+Variation : -7.48 points.
+Une diminution est observée.
+
+
+### Analyse descriptive de l'évolution des indicateurs scolaires selon le sexe (2015-2016 à 2024-2025)
+
+L'analyse temporelle du taux brut d'admission (TBA), du taux brut de scolarisation (TBS) et du taux d'achèvement du primaire (TAP) met en évidence des évolutions différenciées selon le sexe.
+
+Les résultats montrent que le TBA est systématiquement plus élevé chez les garçons durant la période étudiée, révélant une disparité persistante en matière d'admission. En revanche, les différences observées pour le TBS sont relativement faibles et évoluent selon les années.
+
+Concernant le TAP, les filles présentent systématiquement des valeurs supérieures à celles des garçons. Cette observation met en évidence une situation différente de celle constatée pour l'admission et suggère que les disparités de genre ne se manifestent pas de manière uniforme tout au long du parcours scolaire.
+
+Par ailleurs, les trois indicateurs enregistrent une baisse importante en 2022-2023. Une reprise apparaît ensuite pour le TBA et le TBS, tandis que le TAP continue de diminuer jusqu'en 2024-2025.
+
+Dans l'ensemble, ces résultats soulignent l'importance d'une analyse différenciée des indicateurs d'accès, de scolarisation et d'achèvement pour mieux comprendre les inégalités de genre dans l'enseignement primaire au Burkina Faso.

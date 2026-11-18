@@ -1,0 +1,15 @@
+﻿FEUILLE,DECISION,NOMBRE_LIGNES,NOMBRE_COLONNES,CONTENU,INDICATEURS,JUSTIFICATION
+PRESCOLAIRE,EXCLUE,234,32,Données relatives au préscolaire,Non applicable,Hors du périmètre retenu : le projet se concentre sur l'enseignement primaire.
+Feuil1,SELECTIONNEE_PRINCIPALE,66,12,Effectifs du primaire par région et par sexe,Effectifs scolaires,Permet d'étudier les disparités régionales entre filles et garçons.
+Feuil2,SELECTIONNEE_COMPLEMENTAIRE,69,12,Effectifs du primaire par sexe et par statut,Effectifs selon le statut public et privé,Permet de compléter l'analyse des effectifs en distinguant les établissements publics et privés selon le sexe.
+Feuil3,SELECTIONNEE_PRINCIPALE,95,12,Effectifs du primaire par milieu et par sexe,Effectifs urbains et ruraux,Permet de comparer les effectifs scolaires selon le milieu de résidence.
+Feuil4,SELECTIONNEE_COMPLEMENTAIRE,112,13,"Effectifs du primaire par niveau, sexe et statut","Effectifs par niveau scolaire, sexe et statut","Permet d'approfondir l'analyse de la répartition des effectifs selon le niveau scolaire, le sexe et le statut."
+Feuil5,SELECTIONNEE_PRINCIPALE,76,12,Nouveaux inscrits au CP1 par région et par sexe,Nouveaux inscrits au CP1,Permet d'étudier les nouveaux entrants dans le cycle primaire et les disparités régionales entre filles et garçons.
+Feuil6,SELECTIONNEE_PRINCIPALE,57,31,Taux brut d'admission par région et par sexe,TBA,Permet d'étudier les disparités d'accès à l'entrée du primaire.
+Feuil7,SELECTIONNEE_PRINCIPALE,107,31,Taux brut de scolarisation par région et par sexe,TBS,Permet d'étudier la couverture scolaire.
+Feuil8,SELECTIONNEE_PRINCIPALE,83,31,Taux d'achèvement du primaire par région et par sexe,TAP,Permet d'étudier l'achèvement du cycle primaire.
+Feuil9,SELECTIONNEE_PRINCIPALE,165,12,Taux de réussite au CEP par région et par sexe,Réussite au CEP,Permet de comparer les résultats à l'examen selon le sexe et la région.
+Feuil10,SELECTIONNEE_PRINCIPALE,127,11,Indice de parité du TBA par région,IPS TBA,Permet d'étudier la parité dans l'admission.
+Feuil11,SELECTIONNEE_PRINCIPALE,123,11,Indice de parité du TBS par région,IPS TBS,Permet d'étudier la parité dans la scolarisation.
+Feuil12,SELECTIONNEE_PRINCIPALE,101,11,Indice de parité du TAP par région,IPS TAP,Permet d'étudier la parité dans l'achèvement.
+Feuil13,SELECTIONNEE_PRINCIPALE,139,12,Établissements primaires par statut et par région,Écoles publiques et privées,Permet d'étudier la répartition territoriale des établissements selon leur statut.

@@ -1,0 +1,50 @@
+ANALYSE DES DISPARITES DE GENRE PAR REGION
+=================================================================
+Convention : écart = valeur filles - valeur garçons.
+Écart négatif : désavantage des filles.
+Écart positif : valeur supérieure chez les filles.
+Les écarts sont exprimés en points de pourcentage.
+
+-----------------------------------------------------------------
+INDICATEUR : TBA
+Écart le plus négatif : PLATEAU CENTRAL (-7.94 points)
+Écart le plus positif : CENTRE-OUEST (+1.50 points)
+Régions avec écart négatif : 12
+Régions avec écart positif : 1
+
+-----------------------------------------------------------------
+INDICATEUR : TBS
+Écart le plus négatif : PLATEAU CENTRAL (-1.87 points)
+Écart le plus positif : CENTRE-OUEST (+6.21 points)
+Régions avec écart négatif : 7
+Régions avec écart positif : 6
+
+-----------------------------------------------------------------
+INDICATEUR : TAP
+Écart le plus négatif : SAHEL (-1.16 points)
+Écart le plus positif : CENTRE (+13.92 points)
+Régions avec écart négatif : 1
+Régions avec écart positif : 12
+
+-----------------------------------------------------------------
+EVOLUTION TEMPORELLE
+TBA : -4.68 points en 2015-2016 contre -5.48 points en 2024-2025.
+TBS : +0.15 points en 2015-2016 contre -1.10 points en 2024-2025.
+TAP : +5.42 points en 2015-2016 contre +7.02 points en 2024-2025.
+
+
+# Analyse des disparités de genre dans l'enseignement primaire au Burkina Faso
+
+L'analyse des disparités de genre, réalisée à partir des indicateurs TBA, TBS et TAP sur la période 2015-2016 à 2024-2025, met en évidence des différences importantes selon les régions et les dimensions du parcours scolaire.
+
+Les résultats concernant le taux brut d'admission (TBA) montrent que les filles présentent des valeurs inférieures à celles des garçons dans 12 des 13 régions étudiées. Les écarts les plus importants sont observés dans les régions du Plateau Central (-7,94 points), du Centre-Nord (-7,73 points) et du Nord (-7,05 points). Ces résultats mettent en évidence une disparité persistante en matière d'admission au détriment des filles dans la majorité des régions.
+
+Concernant le taux brut de scolarisation (TBS), la situation est plus contrastée. Sept régions présentent des écarts négatifs, tandis que six régions présentent des écarts positifs en faveur des filles. Le Plateau Central, le Centre-Nord et le Centre-Est enregistrent les écarts négatifs les plus importants. À l'inverse, le Centre-Ouest et le Centre présentent les écarts positifs les plus élevés.
+
+L'analyse du taux d'achèvement du primaire (TAP) révèle une situation différente. Les filles présentent des valeurs supérieures à celles des garçons dans 12 régions sur 13. Les écarts les plus importants sont observés dans les régions du Centre (+13,92 points), du Centre-Ouest (+13,75 points) et du Centre-Sud (+12,34 points). Le Sahel constitue la seule région où l'écart est négatif (-1,16 point).
+
+L'analyse temporelle confirme que ces disparités ne sont pas constantes. Le TBA reste défavorable aux filles durant les dix années étudiées, malgré une réduction de l'écart jusqu'en 2023-2024, suivie d'une nouvelle augmentation en 2024-2025. Le TBS présente une évolution plus variable et devient défavorable aux filles au cours de la dernière année. En revanche, le TAP conserve un écart positif en faveur des filles sur l'ensemble de la période, malgré une diminution de cet écart en 2024-2025.
+
+Dans l'ensemble, cette analyse montre que les inégalités de genre dans l'enseignement primaire ne se manifestent pas uniformément. Les disparités diffèrent selon les indicateurs et les territoires. Ces résultats soulignent l'importance de mettre en place des interventions différenciées, tenant compte des caractéristiques régionales et des dimensions spécifiques du parcours scolaire.
+
+Ces conclusions doivent toutefois être interprétées comme des constats descriptifs. Les données disponibles ne permettent pas, à elles seules, d'établir les causes des disparités observées ni leur significativité statistique.

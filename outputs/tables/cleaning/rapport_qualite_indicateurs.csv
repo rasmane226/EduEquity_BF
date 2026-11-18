@@ -1,0 +1,11 @@
+﻿fichier,statut,lignes,colonnes,valeurs_manquantes,lignes_dupliquees,colonnes_numeriques,valeurs_non_numeriques,valeurs_negatives,valeurs_non_entieres,valeurs_hors_limites
+effectifs_primaire_region_sexe.csv,Analysé,42,12,0,0,10,0,0,0,0
+effectifs_primaire_milieu_sexe.csv,Analysé,9,12,0,0,10,0,0,0,0
+tba_primaire_region_sexe.csv,Analysé,14,31,0,0,30,0,0,0,0
+tbs_primaire_region_sexe.csv,Analysé,14,31,0,0,30,0,0,0,0
+tap_primaire_region_sexe.csv,Analysé,14,31,0,0,30,0,0,0,0
+taux_reussite_cep_region_sexe.csv,Analysé,42,12,0,0,10,0,0,0,0
+ips_tba_primaire_region.csv,Analysé,14,11,0,0,10,0,0,0,0
+ips_tbs_primaire_region.csv,Analysé,14,11,0,0,10,0,0,0,0
+ips_tap_primaire_region.csv,Analysé,14,11,0,0,10,0,0,0,0
+ecoles_primaire_region_statut.csv,Analysé,42,12,0,0,10,0,0,0,0

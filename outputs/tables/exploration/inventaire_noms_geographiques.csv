@@ -1,0 +1,127 @@
+﻿fichier,nom_original,nombre_occurrences
+effectifs_primaire_region_sexe.csv,BOUCLE DU MOUHOUN,3
+effectifs_primaire_region_sexe.csv,CASCADES,3
+effectifs_primaire_region_sexe.csv,CENTRE,3
+effectifs_primaire_region_sexe.csv,CENTRE-EST,3
+effectifs_primaire_region_sexe.csv,CENTRE-NORD,3
+effectifs_primaire_region_sexe.csv,CENTRE-OUEST,3
+effectifs_primaire_region_sexe.csv,CENTRE-SUD,3
+effectifs_primaire_region_sexe.csv,EST,3
+effectifs_primaire_region_sexe.csv,HAUTS-BASSINS,3
+effectifs_primaire_region_sexe.csv,NORD,3
+effectifs_primaire_region_sexe.csv,PLATEAU CENTRAL,3
+effectifs_primaire_region_sexe.csv,SAHEL,3
+effectifs_primaire_region_sexe.csv,SUD-OUEST,3
+effectifs_primaire_region_sexe.csv,NATIONAL,3
+tba_primaire_region_sexe.csv,BOUCLE DU MOUHOUN,1
+tba_primaire_region_sexe.csv,CASCADES,1
+tba_primaire_region_sexe.csv,CENTRE,1
+tba_primaire_region_sexe.csv,CENTRE-EST,1
+tba_primaire_region_sexe.csv,CENTRE-NORD,1
+tba_primaire_region_sexe.csv,CENTRE-OUEST,1
+tba_primaire_region_sexe.csv,CENTRE-SUD,1
+tba_primaire_region_sexe.csv,EST,1
+tba_primaire_region_sexe.csv,HAUTS-BASSINS,1
+tba_primaire_region_sexe.csv,NORD,1
+tba_primaire_region_sexe.csv,PLATEAU CENTRAL,1
+tba_primaire_region_sexe.csv,SAHEL,1
+tba_primaire_region_sexe.csv,SUD-OUEST,1
+tba_primaire_region_sexe.csv,BURKINA FASO,1
+tbs_primaire_region_sexe.csv,BOUCLE DU MOUHOUN,1
+tbs_primaire_region_sexe.csv,CASCADES,1
+tbs_primaire_region_sexe.csv,CENTRE,1
+tbs_primaire_region_sexe.csv,CENTRE-EST,1
+tbs_primaire_region_sexe.csv,CENTRE-NORD,1
+tbs_primaire_region_sexe.csv,CENTRE-OUEST,1
+tbs_primaire_region_sexe.csv,CENTRE-SUD,1
+tbs_primaire_region_sexe.csv,EST,1
+tbs_primaire_region_sexe.csv,HAUTS-BASSINS,1
+tbs_primaire_region_sexe.csv,NORD,1
+tbs_primaire_region_sexe.csv,PLATEAU CENTRAL,1
+tbs_primaire_region_sexe.csv,SAHEL,1
+tbs_primaire_region_sexe.csv,SUD-OUEST,1
+tbs_primaire_region_sexe.csv,BURKINA FASO,1
+tap_primaire_region_sexe.csv,BOUCLE DU MOUHOUN,1
+tap_primaire_region_sexe.csv,CASCADES,1
+tap_primaire_region_sexe.csv,CENTRE,1
+tap_primaire_region_sexe.csv,CENTRE-EST,1
+tap_primaire_region_sexe.csv,CENTRE-NORD,1
+tap_primaire_region_sexe.csv,CENTRE-OUEST,1
+tap_primaire_region_sexe.csv,CENTRE-SUD,1
+tap_primaire_region_sexe.csv,EST,1
+tap_primaire_region_sexe.csv,HAUTS-BASSINS,1
+tap_primaire_region_sexe.csv,NORD,1
+tap_primaire_region_sexe.csv,PLATEAU CENTRAL,1
+tap_primaire_region_sexe.csv,SAHEL,1
+tap_primaire_region_sexe.csv,SUD-OUEST,1
+tap_primaire_region_sexe.csv,BURKINA FASO,1
+taux_reussite_cep_region_sexe.csv,BOUCLE DU MOUHOUN,3
+taux_reussite_cep_region_sexe.csv,CASCADES,3
+taux_reussite_cep_region_sexe.csv,CENTRE,3
+taux_reussite_cep_region_sexe.csv,CENTRE-EST,3
+taux_reussite_cep_region_sexe.csv,CENTRE-NORD,3
+taux_reussite_cep_region_sexe.csv,CENTRE-OUEST,3
+taux_reussite_cep_region_sexe.csv,CENTRE-SUD,3
+taux_reussite_cep_region_sexe.csv,EST,3
+taux_reussite_cep_region_sexe.csv,HAUT-BASSINS,3
+taux_reussite_cep_region_sexe.csv,NORD,3
+taux_reussite_cep_region_sexe.csv,PLATEAU CENTRAL,3
+taux_reussite_cep_region_sexe.csv,SAHEL,3
+taux_reussite_cep_region_sexe.csv,SUD-OUEST,3
+taux_reussite_cep_region_sexe.csv,NATIONAL,3
+ips_tba_primaire_region.csv,BOUCLE DU MOUHOUN,1
+ips_tba_primaire_region.csv,CASCADES,1
+ips_tba_primaire_region.csv,CENTRE,1
+ips_tba_primaire_region.csv,CENTRE-EST,1
+ips_tba_primaire_region.csv,CENTRE-NORD,1
+ips_tba_primaire_region.csv,CENTRE-OUEST,1
+ips_tba_primaire_region.csv,CENTRE-SUD,1
+ips_tba_primaire_region.csv,EST,1
+ips_tba_primaire_region.csv,HAUTS-BASSINS,1
+ips_tba_primaire_region.csv,NORD,1
+ips_tba_primaire_region.csv,PLATEAU CENTRAL,1
+ips_tba_primaire_region.csv,SAHEL,1
+ips_tba_primaire_region.csv,SUD-OUEST,1
+ips_tba_primaire_region.csv,BURKINA FASO,1
+ips_tbs_primaire_region.csv,BOUCLE DU MOUHOUN,1
+ips_tbs_primaire_region.csv,CASCADES,1
+ips_tbs_primaire_region.csv,CENTRE,1
+ips_tbs_primaire_region.csv,CENTRE-EST,1
+ips_tbs_primaire_region.csv,CENTRE-NORD,1
+ips_tbs_primaire_region.csv,CENTRE-OUEST,1
+ips_tbs_primaire_region.csv,CENTRE-SUD,1
+ips_tbs_primaire_region.csv,EST,1
+ips_tbs_primaire_region.csv,HAUTS-BASSINS,1
+ips_tbs_primaire_region.csv,NORD,1
+ips_tbs_primaire_region.csv,PLATEAU CENTRAL,1
+ips_tbs_primaire_region.csv,SAHEL,1
+ips_tbs_primaire_region.csv,SUD-OUEST,1
+ips_tbs_primaire_region.csv,BURKINA FASO,1
+ips_tap_primaire_region.csv,BOUCLE DU MOUHOUN,1
+ips_tap_primaire_region.csv,CASCADES,1
+ips_tap_primaire_region.csv,CENTRE,1
+ips_tap_primaire_region.csv,CENTRE-EST,1
+ips_tap_primaire_region.csv,CENTRE-NORD,1
+ips_tap_primaire_region.csv,CENTRE-OUEST,1
+ips_tap_primaire_region.csv,CENTRE-SUD,1
+ips_tap_primaire_region.csv,EST,1
+ips_tap_primaire_region.csv,HAUTS-BASSINS,1
+ips_tap_primaire_region.csv,NORD,1
+ips_tap_primaire_region.csv,PLATEAU CENTRAL,1
+ips_tap_primaire_region.csv,SAHEL,1
+ips_tap_primaire_region.csv,SUD-OUEST,1
+ips_tap_primaire_region.csv,BURKINA FASO,1
+ecoles_primaire_region_statut.csv,BOUCLE DU MOUHOUN,3
+ecoles_primaire_region_statut.csv,CASCADES,3
+ecoles_primaire_region_statut.csv,CENTRE,3
+ecoles_primaire_region_statut.csv,CENTRE-EST,3
+ecoles_primaire_region_statut.csv,CENTRE-NORD,3
+ecoles_primaire_region_statut.csv,CENTRE-OUEST,3
+ecoles_primaire_region_statut.csv,CENTRE-SUD,3
+ecoles_primaire_region_statut.csv,EST,3
+ecoles_primaire_region_statut.csv,HAUT-BASSINS,3
+ecoles_primaire_region_statut.csv,NORD,3
+ecoles_primaire_region_statut.csv,PLATEAU CENTRAL,3
+ecoles_primaire_region_statut.csv,SAHEL,3
+ecoles_primaire_region_statut.csv,SUD-OUEST,3
+ecoles_primaire_region_statut.csv,NATIONAL,3
